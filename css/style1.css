@@ -1,0 +1,34 @@
+/*************************TAG SELECTORS************************************/
+body{
+    background-color: aliceblue;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkgrey;
+    border-width: 5px;
+    width: 5%;
+
+}
+h3{color:#2596be}
+h1 {
+    color:#2596be;
+    margin-top: 0;
+
+    .sacramento-regular {
+        font-family: "Sacramento", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+}
+
+.picture{
+    height:400px;
+    width: 400px;
+}
+/*************************CLASS SELECTORS****************** /  
+.hobby{
+    color: #0cd0d0;
+ }
+    #info{
+    color:#0cd0d0;}
