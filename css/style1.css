@@ -10,7 +10,7 @@ hr {
     width: 5%;
 
 }
-h3{color:#2596be}
+h3{color:#2596be;}
 h1 {
     color:#2596be;
     margin-top: 0;
@@ -27,8 +27,29 @@ h1 {
     width: 400px;
 }
 /*************************CLASS SELECTORS****************** /  
-.hobby{
-    color: #0cd0d0;
- }
-    #info{
-    color:#0cd0d0;}
+h2{color:#2596be;
+    margin-top: 0;
+
+    .sacramento-regular {
+        font-family: "Sacramento", serif;
+        font-weight: 400;
+        font-style: normal;}
+
+
+.contact{
+  color:#2596be;
+  margin-top: 0;
+
+  .sacramento-regular {
+        font-family: "Sacramento", serif;
+        font-weight: 400;
+        font-style: normal;}
+
+ .contact-container {
+ max-width: 800px;
+ margin: 0 auto;
+ padding: 20px;
+        }
+.contact-form {
+ display: grid;
+ gap: 1rem;
