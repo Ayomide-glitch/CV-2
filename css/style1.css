@@ -32,3 +32,12 @@ h1 {
  }
     #info{
     color:#0cd0d0;}
+
+         .contact-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .contact-form {
+            display: grid;
+            gap: 1rem;
